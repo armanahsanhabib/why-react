@@ -1,12 +1,16 @@
-body {
-    background-color: rgb(223, 223, 223);
+* {
+    box-sizing: border-box;
 }
 
-.container {
-    background-color: #fff;
-    border-radius: 10px;
+.user img {
+    height: 50px;
+    border-radius: 50%;
 }
 
-h1.fs-1 {
-    font-size: 60px;
+.container:first-child {
+    margin-top: 10px;
+}
+
+.fakebook {
+    width: 40%;
 }
