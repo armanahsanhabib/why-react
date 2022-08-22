@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(223, 223, 223);
+}
+
+.container {
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+h1.fs-1 {
+    font-size: 60px;
+}
